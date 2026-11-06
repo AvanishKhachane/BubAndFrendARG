@@ -13,3 +13,4 @@
 8. the rooms frend and bud remember are almost the same
 9. the letters from name tags keep fleing off
 10. frends brain stores absurdly large amont of info
+11. if you catonate the letters that fly out in order of the eps you get BNJUFR which matches the eye binary in [[17_TheDoor]] 
