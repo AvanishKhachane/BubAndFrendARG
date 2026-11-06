@@ -1,0 +1,9 @@
+# Obsidian workspace state (changes constantly, device-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Other common junk
+.DS_Store
+Thumbs.db
+gitpush.ps1

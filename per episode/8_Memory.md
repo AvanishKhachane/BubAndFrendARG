@@ -10,7 +10,7 @@ frend says "that sounds wonderful"
 
 then some symbols and binary eyes are shown
 
-![[Pic_8_Memories9.png]]
+
 
 ![[Pic_8_Memories1.png]]
 
@@ -29,7 +29,7 @@ then some symbols and binary eyes are shown
 ![[Pic_8_Memories8.png]]
 ![[Pic_8_Memories9.png]]
 
-translation of the eye bin translates to [BO _ T](Eyes_Translations) 
+translation of the eye bin translates to [LO _ T](Eyes_Translations) 
 
 frend remembers "a small blue world. i looked away only for a moment."
 

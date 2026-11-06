@@ -10,7 +10,7 @@ hidden eye binaries table:
 
 | Source                                              | translation | Decimal                 | Binary                                              |
 | --------------------------------------------------- | ----------- | ----------------------- | --------------------------------------------------- |
-| reel/short called Memory                            | BO _ T      | 21 2 20 8               | 01010 00010 10100 01000                             |
+| reel/short called Memory                            | LO _ T      | 10 2 20 8               | 01010 00010 10100 01000                             |
 | reel/short called Names                             | KEITH       | 14 16 24 8 18           | 01110 10000 11000 01000 10010                       |
 | reel/short called The Door                          | BNJUFR      | 21 1 13 9 28 17         | 10101 00001 01101 01001 11100 10001                 |
 | insta post called Photo dump                        | WAKING      | 3 4 14 24 1 26          | 00011 00100 01110 11000 00001 11010                 |
