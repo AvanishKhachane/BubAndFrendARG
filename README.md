@@ -10,19 +10,23 @@ A collection of notes, screenshots, and decoding work for the Bub & Frend ARG.
 - **Characters:** Bub, Frend, Bub's dog Pancake, and Frend's dog painting
 - **Episodes:** one note per episode, 1 to 17, with screenshots
 
-## How to open it
+## How to use this
 
-**Option 1: Open locally (no install needed)**
-
-1. Unzip `BubAndFrend_WebsiteVersion.zip`.
-2. Double-click `index.html`.
-
-The site opens in your browser. Use the sidebar to navigate. Links between notes and all images work offline.
+**Option1: Using the [github repo](https://github.com/AvanishKhachane/BubAndFrendARG) directly**
 
 **Option 2: Open in Obsidian**
 
 1. Open Obsidian and choose **Open folder as vault**.
 2. Select the `BubAndFrend` folder.
+
+
+**Option 3: Open locally (no install needed)(not recommended)**
+
+1. Unzip `BubAndFrend_WebsiteVersion.zip`.
+2. Double-click `index.html`.
+
+The site opens in your browser. Use the sidebar to navigate. Links between notes and all images work offline.(this will be updated way less frequently so obsidian is recommended)
+
 
 Wiki-links and embedded images work as they do in the original vault.
 
