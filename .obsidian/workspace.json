@@ -188,8 +188,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "b65d827d70306aa9",
+  "active": "04fd66417b68adc2",
   "lastOpenFiles": [
+    "README.md",
     "Eyes_Translations.md",
     "Frend.md",
     "per episode/17_TheDoor.md",
@@ -227,7 +228,6 @@
     "per episode/6_Anger.md",
     "per episode/7_Size.md",
     "per episode/9_Sorry.md",
-    "grand.md",
-    "bub.png.md"
+    "grand.md"
   ]
 }
