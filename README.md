@@ -1,10 +1,17 @@
 # Bub & Frend ARG: Research Vault
 
 Sources:
-https://youtube.com/@bubandfriend?si=oA2EKQOun-E9QBus
+https://youtube.com/@bubandfriend
 https://www.instagram.com/bubandfriend
 https://www.patreon.com/cw/BubandFriend/home
 https://bubandfriend.com/
+
+Communities to join:
+https://youtube.com/@bubandfriend
+https://www.instagram.com/bubandfriend
+https://www.patreon.com/cw/BubandFriend/home
+https://discord.gg/FHGs3FDNr
+https://www.reddit.com/r/bubandfriend
 
 A collection of notes, screenshots, and decoding work for the Bub & Frend ARG.
 
