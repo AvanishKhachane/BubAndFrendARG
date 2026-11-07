@@ -10,7 +10,11 @@
 5. in [[8_Memory]] it is suggested that the universe loops atleast verticaly
 6. frend is attached to a blue planet and has/had a female friend
 7. it seems the planet was destroyed in an instant,reason unknown
+<<<<<<< HEAD
 8. the rooms frend and bub remember are almost the same
+=======
+8. the rooms frend and bud remember are almost the same
+>>>>>>> d831625df409274ac17cd96ba899d1587982b716
 9. the letters from name tags keep fleing off
 10. frends brain stores absurdly large amont of info
 11. if you catonate the letters that fly out in order of the eps you get BNJUFR which matches the eye binary in [[17_TheDoor]] 
