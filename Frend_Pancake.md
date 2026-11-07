@@ -1,0 +1,1 @@
+![[female friends dog painting.png]]frend had a female friend which drew this dog which shares a stricking resemblance to [[Bub_Pancake]]
