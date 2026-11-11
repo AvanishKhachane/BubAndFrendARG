@@ -10,14 +10,15 @@ hidden eye binaries table:
 
 | Source                                              | translation | Decimal                 | Binary                                              |
 | --------------------------------------------------- | ----------- | ----------------------- | --------------------------------------------------- |
-| reel/short called Memory                            | LOST        | 10 2 20 8               | 01010 00010 10100 01000                             |
-| reel/short called Names                             | KEITH       | 14 16 24 8 18           | 01110 10000 11000 01000 10010                       |
-| reel/short called The Door                          | BNJUFR      | 21 1 13 9 28 17         | 10101 00001 01101 01001 11100 10001                 |
+| small talk called Memory                            | LOST        | 10 2 20 8               | 01010 00010 10100 01000                             |
+| small talk called Names                             | KEITH       | 14 16 24 8 18           | 01110 10000 11000 01000 10010                       |
+| small talk called The Door                          | BNJUFR      | 21 1 13 9 28 17         | 10101 00001 01101 01001 11100 10001                 |
 | insta post called Photo dump                        | WAKING      | 3 4 14 24 1 26          | 00011 00100 01110 11000 00001 11010                 |
 | insta story on 5th nov 2026                         | KNOCK       | 14 1 2 6 14             | 01110 00001 00010 00110 01110                       |
 | in the [room](https://bubandfriend.com/2111392817/) | WAI TING    | 3 4 24 31[^1] 8 24 1 26 | 00011 00100 11000 11111[^1] 01000 11000 00001 11010 |
 | in episode 1                                        | FALSE       | 28 4 10 20 16           | 11100 00100 01010 10100 10000                       |
-[^1]
+| small talk called Words                             | N           | 1                       | 00001                                               |
+
 
 [^1]: 31 does not translate to any letter and is used as spacing character
 [^2]: 0 does not translate to any letter and is used as begining/termination character

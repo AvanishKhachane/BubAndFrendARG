@@ -4,7 +4,7 @@ translation: [KEITH](Eyes_Translations)
 
 bub's grandma calls him by bub so bub's name is bub
 
-bub names frend frend in this ep but nametag also somehow appears in [[11_Apathy]],inconsistant
+bub names frend frend in this ep but nametag also somehow appears in [[small talks/11_Apathy]],inconsistant
 
 B flies away from name tag making it "BU" when bub yells "FREND DINNER *echo*"
 

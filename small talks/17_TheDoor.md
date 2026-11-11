@@ -10,7 +10,7 @@ frend seems anxious when bub is opening the room
 
 bub says that's his room
 
-there is a painting of the dog from [[3_Futility]] hanging there that bub doesnt remember
+there is a painting of the dog from [[small talks/3_Futility]] hanging there that bub doesnt remember
 
 frend says he didnt put it there
 
