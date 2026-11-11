@@ -1,1 +1,0 @@
-we hear 2 knoks while bub is venting his anger
