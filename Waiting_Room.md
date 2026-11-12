@@ -11,7 +11,11 @@ for now the the ticket always draws a 21
 
 the ticket number display never shows 21
 
-these are pictures 1-7 (in reverse order) which show everytime the door opens
+the order of numbers is always 4, 8, 3, 26, 1, 24, 3
+
+7 secs wait for every door and 16 secs wait for every sequence end (i.e 16 secs wait every alternate 3 and 7 secs wait for every other number)
+
+these are pictures 1-7 (in reverse order)(these are not the order they appear these are in reverse order of thier filenames) which show everytime the door opens
 
 ![[p7.webp]]
 
@@ -27,4 +31,4 @@ these are pictures 1-7 (in reverse order) which show everytime the door opens
 
 ![[p1.webp]]
 
-the pictures and numbers are random and have no correlation
+the pictures are random and have no correlation with the numbers
